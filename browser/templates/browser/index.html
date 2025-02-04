@@ -7,31 +7,40 @@
 
 <title>Index</title>
 
-<!--Resultado de la busqueda-->
-{% block content %}
-  <section>
-    <div class="clearfix my-1" id="cards">
+  <!--Resultado de la busqueda-->
+  {% block content %}
+    <section>
+      <div class="container" id="cards">
+        {% if query %}  <!--Si existe resultado en la busqueda-->
+          <div class="container">
+            <h5>Date:&nbsp;{{query.date}}</h5>
+          </div>
 
-      <!--Si existe resultado en la busqueda-->
-      {% if query %}
-        <h5>Today:&nbsp;{{query.date}}</h5>
-        <h4 class="col-md-12">{{query.title}}</h4>
-        <img src="{{query.url}}"  class="col-md-10 float-md-start mb-1 ms-md-3" alt="{{query.title}}">
+          <div class="container">
+            <h4 class="col-md-12">{{query.title}}</h4>
+            <img src="{{query.url}}"  class="col-md-10 float-md-start mb-1 ms-md-3" alt="{{query.title}}">
+          </div>
 
-        <p class="col-md-6">
-          {{query.explanation}}
-        </p>
+          <div class="container">
+            <p class="col-md-12">
+              {{query.explanation}}
+            </p>
+          </div>
 
-        <p class="col-md-5" id="copyright">
-          Author(s):&nbsp;{{query.copyright}}
-        </p>
+          <div class="container">
+            <h6>Autor(es)</h6>
+          </div>
 
-      <!--Si el resultado de la busqueda es fallido-->
-      {% else %}
-        <h4 class="col-md-12">No result in the search</h4>
-      
-      <!--Finaliza el ciclo de resultado-->
-      {% endif %}
-    </div>
-  </section>
-{% endblock %}
+          <div class="container">
+            <cite>{{query.copyright}}</cite>
+          </div>
+
+        {% else %} <!--Si el resultado de la busqueda es fallido-->
+          <div class="container">
+            <h4 class="col-md-12">No result in the search</h4>
+          </div>
+         
+        {% endif %}  <!--Finaliza el ciclo de resultado-->
+      </div>
+    </section>
+  {% endblock %}
