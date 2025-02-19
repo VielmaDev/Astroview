@@ -16,7 +16,7 @@
 <div class="container">
     <h4>URL Base</4>
     <p>https://api.nasa.gov/</p>
-    <p>El repositorio completo de esta API se puede encontrar en el repositorio https://github.com/nasa/apod-api </p>
+    <p>La documentación completa de esta API se puede encontrar en el repositorio https://github.com/nasa/apod-api </p>
 </div>
 
 <div class="container">
