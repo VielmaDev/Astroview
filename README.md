@@ -27,7 +27,7 @@
 
 <footer>
 <div class="container my-2">
-    <h3>Aspectos técnicos:</h3>
+    <h4>Aspectos técnicos:</h4>
 </div>
 
 <div class="container my-2">
