@@ -11,11 +11,17 @@
 </div>   
 <div class="container">
     <p>La Web app permite conocer en tiempo real la imagen del día publicada por la NASA.</p>
-    <p>Además cuenta con un buscador para realizar busquedas por fecha. </p>
+    <p>Además cuenta con un buscador para realizar consultas por fecha. </p>
 </div>
 <div class="container">
-    <h5>URL Base</5>
+    <h4>URL Base</4>
     <p>https://api.nasa.gov/</p>
+    <p>El repositorio completo de esta API se puede encontrar en el repositorio https://github.com/nasa/apod-api </p>
+</div>
+
+<div class="container">
+    <h4>HTTP Request</4>
+    <p>GET https://api.nasa.gov/planetary/apod</p>
 </div>
 </section>
 
