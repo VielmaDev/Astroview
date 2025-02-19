@@ -16,12 +16,12 @@
 <div class="container">
     <h4>URL Base</4>
     <p>https://api.nasa.gov/</p>
-    <p>La documentación completa de esta API se puede encontrar en el repositorio https://github.com/nasa/apod-api </p>
 </div>
 
 <div class="container">
-    <h4>HTTP Request</4>
-    <p>GET https://api.nasa.gov/planetary/apod</p>
+    <h4>GET</4>
+    <p>https://api.nasa.gov/planetary/apod</p>
+     <p>La documentación completa de esta API se puede encontrar en el repositorio... https://github.com/nasa/apod-api </p>
 </div>
 </section>
 
