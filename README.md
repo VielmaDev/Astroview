@@ -11,7 +11,7 @@
 </div>   
 <div class="container">
     <p>La Web app permite conocer en tiempo real la imagen del día publicada por la NASA.</p>
-    <p>Además cuenta con un buscador para realizar consultas por fecha. </p>
+    <p>Además cuenta con un buscador (calendario) para realizar consultas por fecha. </p>
 </div>
 <div class="container">
     <h4>URL Base</4>
