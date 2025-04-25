@@ -58,7 +58,7 @@ a:hover{
     border: 1px solid #fff;
     border-radius: 10px;
     backdrop-filter: blur(3px);
-    width: 419px;
+    width: 400px;
     height: 70px;
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -75,13 +75,13 @@ a:hover{
 }
 
 .date{
-    width: 218px;
+    width: 200px;
     height: 35px;
-    padding-left: 10px;
+    padding-left: 5px;
 }
 
 .btn{
-    margin-left: 5px;
+    margin-left: 6px;
 }
 
 #cards{
@@ -165,7 +165,7 @@ footer{
     }
     
     .date{
-        width: 190px;
+        width: 180px;
         height: 35px;
         padding-left: 3px;
     }
