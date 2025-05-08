@@ -10,23 +10,22 @@
     <img src="https://github.com/user-attachments/assets/379b0da9-a09e-42e6-92bb-ef3c8b0925a1">
 </div>   
 <div class="container">
-    <p>La Web app permite conocer en tiempo real la imagen del día publicada por la NASA.</p>
-    <p>Además cuenta con un buscador (calendario) para realizar consultas por fecha. </p>
+    <p>La Web app permite conocer en tiempo real la imagen del día publicada por la NASA. Cuenta con un buscador (calendario) para realizar consultas por fecha.</p>
 </div>
 <div class="container">
     <h4>lenguage and Framework:</4>
-        <ol>Python</ol>
-        <ol>Django</ol>
+        <li>Python</il>
+        <li>Django</li>
 </div>
 <div class="container">
     <h4>URL Base:</4>
-        <ol>https://api.nasa.gov/</ol>
+        <li>https://api.nasa.gov/</li>
 </div>
 
 <div class="container">
     <h4>GET:</4>
-        <ol>https://api.nasa.gov/planetary/apod</ol>
-        <ol>La documentación completa de esta API se puede encontrar en el repositorio... https://github.com/nasa/apod-api </ol>
+        <li>https://api.nasa.gov/planetary/apod</li>
+        <p>La documentación completa de esta API se puede encontrar en el repositorio... https://github.com/nasa/apod-api </p>
 </div>
 </section>
 
@@ -37,9 +36,9 @@
 
 <div class="container my-2">
     <li>Para arrancar el servidor, ingresar a la terminal de VSC y ejecutar el comando:</li> 
-        <ol> >python manage.py runserver </ol>
+        <ol><mark> >python manage.py runserver</mark></ol>
     <li>Luego ingresar al navegador web Google Chrome con la dirección Ip:</li>
-        <ol>http://127.0.0.1:8000</ol>
+        <ol><mark>http://127.0.0.1:8000</mark></ol>
 </div>
 </footer>
 
