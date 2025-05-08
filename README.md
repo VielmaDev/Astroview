@@ -14,27 +14,32 @@
     <p>Además cuenta con un buscador (calendario) para realizar consultas por fecha. </p>
 </div>
 <div class="container">
-    <h4>URL Base</4>
-    <p>https://api.nasa.gov/</p>
+    <h4>lenguage and Framework:</4>
+        <ol>Python</ol>
+        <ol>Django</ol>
+</div>
+<div class="container">
+    <h4>URL Base:</4>
+        <ol>https://api.nasa.gov/</ol>
 </div>
 
 <div class="container">
-    <h4>GET</4>
-    <p>https://api.nasa.gov/planetary/apod</p>
-    <p>La documentación completa de esta API se puede encontrar en el repositorio... https://github.com/nasa/apod-api </p>
+    <h4>GET:</4>
+        <ol>https://api.nasa.gov/planetary/apod</ol>
+        <ol>La documentación completa de esta API se puede encontrar en el repositorio... https://github.com/nasa/apod-api </ol>
 </div>
 </section>
 
 <footer>
 <div class="container my-2">
-    <h4>Aspectos técnicos:</h4>
+    <h4>Technical aspects:</h4>
 </div>
 
 <div class="container my-2">
-    <li>Para arrancar el servidor, ingresar a la terminal de VSC y colocar el comando:</li> 
-        <p> >python manage.py runserver </p>
+    <li>Para arrancar el servidor, ingresar a la terminal de VSC y ejecutar el comando:</li> 
+        <ol> >python manage.py runserver </ol>
     <li>Luego ingresar al navegador web Google Chrome con la dirección Ip:</li>
-        <p>http://127.0.0.1:8000</p>
+        <ol>http://127.0.0.1:8000</ol>
 </div>
 </footer>
 
