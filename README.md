@@ -13,7 +13,7 @@
     <p>La Web app permite conocer en tiempo real la imagen del día publicada por la NASA. Cuenta con un buscador (calendario) para realizar consultas por fecha.</p>
 </div>
 <div class="container">
-    <h4>lenguage and Framework:</4>
+    <h4>Lenguage and Framework:</4>
         <li>Python</il>
         <li>Django</li>
 </div>
