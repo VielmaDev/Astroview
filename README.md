@@ -35,7 +35,7 @@
 </div>
 
 <div class="container my-2">
-    <li>Para arrancar el servidor, ingresar a la terminal de VSC y ejecutar el comando: <mark> >python manage.py runserver</mark> </li> 
+    <li>Para arrancar el servidor, ingresar a la terminal de VSC y ejecutar el comando: <mark>python manage.py runserver</mark> </li> 
     <li>Luego ingresar al navegador web Google Chrome con la dirección Ip: <mark>http://127.0.0.1:8000</mark> </li>
 </div>
 </footer>
