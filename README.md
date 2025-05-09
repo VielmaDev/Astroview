@@ -33,7 +33,7 @@
 
 <div class="container">
     <h4>Github:</4>
-        <li>Documentación completa de la APOD API en el repositorio https://github.com/nasa/apod-api </li>
+        <li>Documentación de la APOD API en el repositorio https://github.com/nasa/apod-api </li>
 </div>
 </section>
 
