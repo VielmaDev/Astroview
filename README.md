@@ -18,21 +18,25 @@
 </div>
 
 <div class="container">
-    <h4>Framework:</4>
+    <h4>Framework:</h4>
         <li>Django</li>
 </div>
+div class="container">
+    <h4>API:</4>
+        <li>APOD de la NASA</li>
+</div>
 <div class="container">
-    <h4>URL API:</4>
+    <h4>URL:</4>
         <li>https://api.nasa.gov/</li>
 </div>
 
 <div class="container">
-    <h4>GET:</4>
+    <h4>GET:</h4>
         <li>https://api.nasa.gov/planetary/apod</li>
 </div>
 
 <div class="container">
-    <h4>Github:</4>
+    <h4>Github:</h4>
         <li>Documentación de APOD API en el repositorio https://github.com/nasa/apod-api </li>
 </div>
 </section>
