@@ -14,7 +14,7 @@
 </div>
 
 <div class="container">
-    <h5>Aspectos técnicos:</h5>
+    <h3>Aspectos técnicos:</h3>
 </div>
 
 <div class="container">
@@ -22,14 +22,18 @@
         <li>Django</li>
 </div>
 <div class="container">
-    <h4>URL Base:</4>
+    <h4>URL API:</4>
         <li>https://api.nasa.gov/</li>
+</div>
+
+<div class="container">
+    <h4>Github:</4>
+        <p>Documentación completa de esta API en el repositorio https://github.com/nasa/apod-api </p>
 </div>
 
 <div class="container">
     <h4>GET:</4>
         <li>https://api.nasa.gov/planetary/apod</li>
-        <p>La documentación completa de esta API se puede encontrar en el repositorio https://github.com/nasa/apod-api </p>
 </div>
 </section>
 
