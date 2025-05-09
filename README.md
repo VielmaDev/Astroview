@@ -43,7 +43,7 @@
 </div>
 
 <div class="container">
-    <li>En la terminal de VSC ejecutar el comando: python manage.py runserver </li> 
+    <li>En la terminal de VSC ejecutar el comando: <b>python manage.py runserver </li> 
     <li>Ingresar en el navegador Google Chrome con la dirección Ip: http://127.0.0.1:8000 </li>
 </div>
 </footer>
