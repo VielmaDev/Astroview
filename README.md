@@ -10,7 +10,7 @@
     <img src="https://github.com/user-attachments/assets/379b0da9-a09e-42e6-92bb-ef3c8b0925a1">
 </div>   
 <div class="container">
-    <p>Esta web app permite conocer en tiempo real la imagen del día publicada por la NASA, y su respectivo artículo de prensa. Cuenta además con un buscador (calendario) para realizar consultas por fecha.</p>
+    <p>Esta web app permite conocer en tiempo real la imagen del día publicada por la NASA con su respectivo artículo de prensa. Cuenta además con un calendario para realizar búsquedas por fecha.</p>
 </div>
 
 <div class="container">
