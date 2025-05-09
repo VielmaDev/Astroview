@@ -26,8 +26,8 @@
         <li>APOD de la NASA</li>
 </div>
 <div class="container">
-    <h4>URL:</h4>
-        <li>https://api.nasa.gov/</li>
+    <h4>URL API:</h4>
+        <li>Registro y solicitud de Api_key en https://api.nasa.gov/</li>
 </div>
 
 <div class="container">
