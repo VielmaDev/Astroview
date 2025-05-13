@@ -23,7 +23,7 @@
 </div>
 <div class="container">
     <h4>API:</h4>
-        <li>APOD de la NASA</li>
+        <li>APOD (NASA)</li>
 </div>
 <div class="container">
     <h4>URL API:</h4>
