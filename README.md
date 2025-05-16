@@ -23,7 +23,7 @@
 </div>
 <div class="container">
     <h4>API:</h4>
-        <li>APOD (NASA)</li>
+        <li>APOD (NASA_API)</li>
 </div>
 <div class="container">
     <h4>URL API:</h4>
@@ -48,7 +48,7 @@
 
 <div class="container">
     <li>En la terminal de VSC ejecutar el comando: <b>python manage.py runserver </li> 
-    <li>Ingresar en el navegador Google Chrome con la dirección Ip: http://127.0.0.1:8000 </li>
+    <li>Ingresar a Google Chrome con la dirección Ip: http://127.0.0.1:8000 </li>
 </div>
 </footer>
 
