@@ -7,7 +7,7 @@
 
 <section>
 <div class="container">
-    <img src="https://github.com/user-attachments/assets/379b0da9-a09e-42e6-92bb-ef3c8b0925a1">
+    <img src="https://github.com/user-attachments/assets/54643d94-76c0-41c9-b26c-24fd13dd444a">
 </div>   
 <div class="container">
     <p>Astroviews es un website que proporciona información astronómica publicada por la agencia espacial NASA. Este website cuenta con un calendario (motor de busquedad) que permite realizar consultas por fecha. Su diseño es totalmente responsive y se adapta a cualquier dispositvo.</p>
