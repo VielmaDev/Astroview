@@ -53,14 +53,17 @@
             </div>
         {% endblock %}
             
-    <!-- Footer -->
-    <footer>
-            <div class="container my-3">
-                <a href="https://www.nasa.gov/"><img src="{% static 'img/nasalogo.png' %}" id="logonasa" alt="Nasa"></a>
-            </div>
+   
+        <div class="container my-2" id="logonasa">
+            <a href="https://www.nasa.gov/">
+                <img src="{% static 'img/nasalogo.png' %}" id="logonasa">
+            </a>
+        </div>
 
+        <!-- Footer -->
+        <footer>
             <div class="container my-2">
-                <label>AstroViews ©2024 | VielmaDev Desing</label>
+                <label><a href="https://github.com/VielmaDev">©2024 VielmaDev</a></label>
             </div>
             <div class="container my-1">
                 <label>Todos los derechos reservados | Politica de privacidad | Aviso legal</label>
