@@ -1,7 +1,7 @@
 
 <caption>
     <div class="container" style="text-aling:center";>
-        <h1>AstrosView</h1>
+        <h1>AstroViews</h1>
     </div>
 </caption>
 
