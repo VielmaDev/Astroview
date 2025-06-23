@@ -58,7 +58,7 @@ a:hover{
     border: 1px solid #fff;
     border-radius: 10px;
     backdrop-filter: blur(3px);
-    width: 400px;
+    width: 320px;
     height: 70px;
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -68,20 +68,14 @@ a:hover{
     align-content: center;
 }
 
-
-.label{
-    margin-right: 4px;
-    margin-left: 5px;
-}
-
 .date{
     width: 200px;
     height: 35px;
-    padding-left: 5px;
+    padding-left: 1px;
 }
 
 .btn{
-    margin-left: 6px;
+    margin-left: 2px;
 }
 
 #cards{
@@ -156,23 +150,19 @@ footer{
     }
 
     #browser{
-        width: 355px;
+        width: 300px;
         height: 70px;
         font-size: 0.85rem;
     }
 
-    .label{
-        margin-left: 2px;
-    }
-    
     .date{
         width: 180px;
         height: 35px;
-        padding-left: 3px;
+        padding-left: 1px;
     }
     
     .btn{
-        margin-left: 1px;
+        margin-left: 2px;
     }
     
 
