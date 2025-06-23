@@ -10,7 +10,7 @@
     <img src="https://github.com/user-attachments/assets/bdf0e7d8-1a35-4fe2-b982-04614309f3da">
 </div>   
 <div class="container">
-    <p>Astroview es un website que proporciona información astronómica publicada por la agencia espacial NASA. Este website cuenta con un calendario (motor de busquedad) que permite realizar consultas por fecha. Su diseño es totalmente responsive y se adapta a cualquier dispositvo.</p>
+    <p>Astroview es un website que proporciona noticias publicadas por la agencia espacial NASA, extraída de la API APOD (Astronomy Picture of Day). El website cuenta con un calendario que es su motor de busquedad, y permite consultar noticias por fecha. Su diseño es totalmente responsive y se adapta a cualquier dispositvo.</p>
 </div>
 
 <div class="container">
