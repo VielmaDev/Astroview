@@ -18,18 +18,14 @@
 </div>
 
 <div class="container">
-    <h4>Framework:</h4>
-        <li>Django</li>
+    <h4>Library:</h4>
+        <li> ...\> pip install Django</li>
 </div>
 <div class="container">
     <h4>DB API:</h4>
         <li>APOD (NASA_API)</li>
-</div>
-<div class="container">
-    <h4>URL API:</h4>
         <li>Registro y solicitud de Api_key en https://api.nasa.gov/</li>
 </div>
-
 <div class="container">
     <h4>GET:</h4>
         <li>https://api.nasa.gov/planetary/apod</li>
