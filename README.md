@@ -7,7 +7,7 @@
 
 <section>
 <div class="container">
-    <img src="https://github.com/user-attachments/assets/bdf0e7d8-1a35-4fe2-b982-04614309f3da">
+    <img src="https://github.com/user-attachments/assets/c130a822-8d71-47a6-9e53-896227c9ef63">
 </div>   
 <div class="container">
     <p>Astroview es un website que proporciona noticias publicadas por la agencia espacial NASA, extraída de la API APOD (Astronomy Picture of Day). 
