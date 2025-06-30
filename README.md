@@ -21,7 +21,7 @@
 
 <div class="container">
     <h4>Library:</h4>
-        <li> ...\> pip install Django</li>
+        <li>pip install Django</li>
 </div>
 <div class="container">
     <h4>DB API:</h4>
