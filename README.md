@@ -10,7 +10,9 @@
     <img src="https://github.com/user-attachments/assets/bdf0e7d8-1a35-4fe2-b982-04614309f3da">
 </div>   
 <div class="container">
-    <p>Astroview es un website que proporciona noticias publicadas por la agencia espacial NASA, extraída de la API APOD (Astronomy Picture of Day). El website cuenta con un calendario que es su motor de busquedad, y permite consultar noticias por fecha. Su diseño es totalmente responsive y se adapta a cualquier dispositvo.</p>
+    <p>Astroview es un website que proporciona noticias publicadas por la agencia espacial NASA, extraída de la API APOD (Astronomy Picture of Day). 
+    El website cuenta con un calendario que es su motor de busquedad, y permite consultar noticias por fecha. Su diseño es totalmente responsive y 
+        se adapta a cualquier dispositvo.</p>
 </div>
 
 <div class="container">
@@ -26,14 +28,15 @@
         <li>APOD (NASA_API)</li>
         <li>Registro y solicitud de Api_key en https://api.nasa.gov/</li>
 </div>
-<div class="container">
-    <h4>GET:</h4>
-        <li>https://api.nasa.gov/planetary/apod</li>
-</div>
 
 <div class="container">
     <h4>GitHub:</h4>
         <li>Documentación de la API en el repositorio https://github.com/nasa/apod-api </li>
+</div>
+
+<div class="container">
+    <h4>GET:</h4>
+        <li>https://api.nasa.gov/planetary/apod</li>
 </div>
 </section>
 
