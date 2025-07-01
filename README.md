@@ -25,7 +25,7 @@
 </div>
 <div class="container">
     <h4>DB API:</h4>
-        <li><img src="https://github.com/user-attachments/assets/edf07340-2eb4-4457-b044-1af51ca91e4c">NASA_API (APOD)</li>
+        <li>NASA_API (APOD)</li>
         <li>Registro y solicitud de Api_key en https://api.nasa.gov/</li>
 </div>
 
